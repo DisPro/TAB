@@ -1,0 +1,3 @@
+name: CoursTAB
+version: '${version}'
+main: fr.dispro.courstab.CoursTAB
